@@ -17,8 +17,8 @@ I hope you find all the information you need. If not, don't hesitate to send me 
 
 <h2 align="center">Where You can find me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/thiagobianeck/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anne-lesinhovski" height="30" width="40" /></a>
-<a href="https://https://www.instagram.com/thiagobianeck/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tech.anne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thiagobianeck/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiago-bianeck" height="30" width="40" /></a>
+<a href="https://https://www.instagram.com/thiagobianeck/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thiago-bianeck" height="30" width="40" /></a>
 <a href = 'https://www.github.com/thgbianeck'> <img width = '44px' align= 'center' src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/></a>
 </p>
 
