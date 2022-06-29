@@ -1,5 +1,4 @@
-<h1 align='center'> Hello, I'm Thiago Bianeck <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Front-end dev with focus on web development</h1>
+<h1 align='center'> Hello, I'm Thiago Bianeck <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> </h1>
 
 <div align="center">
 </div>
